@@ -125,7 +125,11 @@ fun HeroListItem(
                     style = MaterialTheme.typography.displaySmall
                 )
                 Text(
-                    text = stringResource(hero.descriptionRes),
+                    text = stringResource(hero.description1Res),
+                    style = MaterialTheme.typography.bodyLarge
+                )
+                Text(
+                    text = stringResource(hero.description2Res),
                     style = MaterialTheme.typography.bodyLarge
                 )
             }
@@ -153,8 +157,9 @@ fun HeroListItem(
 fun HeroPreview() {
     val hero = Hero(
         R.string.hero1,
-        R.string.description1,
-        R.drawable.android_superhero1
+        description1Res = R.string.description1,
+        description2Res = R.string.description2,
+        R.drawable.abid
     )
     SuperheroesTheme {
         HeroListItem(hero = hero)

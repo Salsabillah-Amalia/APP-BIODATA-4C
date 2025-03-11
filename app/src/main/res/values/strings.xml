@@ -15,17 +15,87 @@
   -->
 
 <resources>
-    <string name="app_name">Superheroes</string>
-    <string name="hero1">Nick the Night and Day</string>
-    <string name="description1">The Jetpack Hero</string>
-    <string name="hero2">Reality Protector</string>
-    <string name="description2">Understands the absolute truth</string>
-    <string name="hero3">Andre the Giant</string>
-    <string name="description3">Mimics the light and night to blend in</string>
-    <string name="hero4">Benjamin the Brave</string>
-    <string name="description4">Harnesses the power of canary to develop bravely</string>
-    <string name="hero5">Magnificent Maru</string>
-    <string name="description5">Effortlessly glides in to save the day</string>
-    <string name="hero6">Dynamic Yasmine</string>
-    <string name="description6">Ability to shift to any form and energize</string>
+    <string name="app_name">Daftar Teman</string>
+
+    <string name="hero1">Abid Falihaqil</string>
+    <string name="description1">Helperbid1@gmail.com</string>
+    <string name="description2">Jl Provinsi, Kartama, Marpoyan Damai</string>
+
+    <string name="hero2">Adjie Putra Ramdhani</string>
+    <string name="description3">adjieramdhani4@gmail.com</string>
+    <string name="description4">Jl. Beringin-Air Hitam, Gg. Ar-Rahman, Sungai Sibam, Tapung</string>
+
+    <string name="hero3">Aris Fadhila</string>
+    <string name="description5">arisfadhila@gmail.com</string>
+    <string name="description6">Jl.Manunggal,Rimbo Panjang</string>
+
+    <string name="hero4"> Ela Melina</string>
+    <string name="description7">elamelina7777@gmail.com</string>
+    <string name="description8">Jl. Mawar, Simpang Baru, Tampan</string>
+
+    <string name="hero5">Farhan arfazi</string>
+    <string name="description9">farhanarfazi7@gmail.com</string>
+    <string name="description10">jl cempaka, gg sekuntum no. 6</string>
+
+    <string name="hero6">Hairunisha</string>
+    <string name="description11">hairunisha76@gmail.com</string>
+    <string name="description12">Jl Rimbong Panjang,Tambang</string>
+
+    <string name="hero7">Irvandi Ramadan Abbas</string>
+    <string name="description13"> Vandigtg99@gmail.com</string>
+    <string name="description14">Jl Rimbo panjang, Gg Asta karya, Tambang</string>
+
+    <string name="hero8">Muhammad Al ghifary Afisha</string>
+    <string name="description15">12350111885@students.uin-suska.ac.id</string>
+    <string name="description16"> Jl, Rimba Panjang, pekanbaru-bangkinang, Kabupaten Kampar, Riau 28468</string>
+
+    <string name="hero9">M.Qodratul Qudus</string>
+    <string name="description17">mqudri2005@gmail.com</string>
+    <string name="description18">Jl.Andalas, Sidomulyo Barat, Tampan</string>
+
+    <string name="hero10">Nadya Halliza</string>
+    <string name="description19">nadyahalliza.9h@gmail.com</string>
+    <string name="description20">Jl. Ahmad Dahlan, Tambusai, Rumbio Jaya, Kampar</string>
+
+    <string name="hero11">Naufal Affandi</string>
+    <string name="description21"> samuelsatria@gmail.com</string>
+    <string name="description22">Jl. Garuda sakti, jln. Satria, kel. Simpang baru, Tampan</string>
+
+    <string name="hero12">Naya Nabila</string>
+    <string name="description23">nayaanabila20@gmail.com</string>
+    <string name="description24">Jl. Taman Karya,  Perum. Permata Bunda 1, Tampan</string>
+
+    <string name="hero13">Nisha Rahmadini Syahda</string>
+    <string name="description25">nishasyahda@gmail.com</string>
+    <string name="description26">Jl. kruing 2 Pandau Permai</string>
+
+    <string name="hero14">Noval Adiya Putra</string>
+    <string name="description27">novaladiyaputra@gmail.com</string>
+    <string name="description28"> Jl.Sukakarya, Tuah Karya, Tampan</string>
+
+    <string name="hero15">Rafinaldi </string>
+    <string name="description29">rafinaldi05@gmail.com</string>
+    <string name="description30"> Jl. Melur, Sidomulyo Barat, Tampan</string>
+
+    <string name="hero16">Rijan Ananta</string>
+    <string name="description31">rijanananta09@gmai.com</string>
+    <string name="description32">Jl. Garuda sakti, jln. Satria, kel. Simpang baru, Tampan</string>
+
+    <string name="hero17">Rizky Syakuur Rahman</string>
+    <string name="description33">rizkysyakuurrahman18@gmail.com</string>
+    <string name="description34">Jl.Sepakat, Garuda Sakti KM 1,5, Kel.Simpang baru, Kec. Tampan</string>
+
+    <string name="hero18">: Salsabillah Amalia Al Hadi</string>
+    <string name="description35">Salsabillahamalia3@gmail.com</string>
+    <string name="description36">jlPerumahan Vaishatamma, Jl. Anggrek No.11, RT.006/RW.016, Desa Rawang Air Putih, Kec. Tampan, Kota Pekanbaru, Riau 28293</string>
+
+    <string name="hero19">Tengku Ipo Rasya abadi</string>
+    <string name="description37">tengkuiporasya@gmail.com</string>
+    <string name="description38">Jl. Suka Karya, Perumahan Laucih</string>
+
+    <string name="hero20">M.Raihan Bintang</string>
+    <string name="description39">bintang05@gmail.com</string>
+    <string name="description40">Jl. Sudirman Duri</string>
+
+
 </resources>
